@@ -23,3 +23,5 @@ Make always with ❤️ for Bruno Magro 👋🏽 Contact:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Magro-000657?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunohmagro/)](https://www.linkedin.com/in/brunohmagro/) 
 [![Outlook Badge](https://img.shields.io/badge/-brunohmagro@hotmail.com-000657?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:brunohmagro@hotmail.com)](mailto:brunohmagro@hotmail.com)
+
+<p style="color: #4978FF;">#dontstoptolearning</p>
