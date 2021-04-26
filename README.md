@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello 👋 I'm Bruno Henrique Magro
 
-<!--
-**brunohmagro/brunohmagro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<h3 align="center">A Web Developer React, React Native, NodeJS and PHP</h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Magro-4978FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunohmagro/)](https://www.linkedin.com/in/brunohmagro/) 
+[![Outlook Badge](https://img.shields.io/badge/-brunohmagro@hotmail.com-4978FF?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:brunohmagro@hotmail.com)](mailto:brunohmagro@hotmail.com)
+</div>
+
+<br>
+
+<div align="center">
+  <p align="center">🚧 My profile is under construction... 🚧</p>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunohmagro&show_icons=true" alt="walafi02" />
+</p>
+
