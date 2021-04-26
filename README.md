@@ -6,14 +6,6 @@
 <br>
 
 <div align="center">
-  
-[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Magro-4978FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunohmagro/)](https://www.linkedin.com/in/brunohmagro/) 
-[![Outlook Badge](https://img.shields.io/badge/-brunohmagro@hotmail.com-4978FF?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:brunohmagro@hotmail.com)](mailto:brunohmagro@hotmail.com)
-</div>
-
-<br>
-
-<div align="center">
   <p align="center">🚧 My profile is under construction... 🚧</p>
 </div>
 
@@ -23,3 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=brunohmagro&show_icons=true" alt="walafi02" />
 </p>
 
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Magro-4978FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunohmagro/)](https://www.linkedin.com/in/brunohmagro/) 
+[![Outlook Badge](https://img.shields.io/badge/-brunohmagro@hotmail.com-4978FF?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:brunohmagro@hotmail.com)](mailto:brunohmagro@hotmail.com)
