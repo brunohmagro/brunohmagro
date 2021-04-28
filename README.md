@@ -4,15 +4,9 @@
 
 <h3 align="center">A Web Developer React, React Native, NodeJS and PHP</h3>
 
-<br>
-
 #### Welcome to my profile!
 
-<br>
-
 <p>I have experience with some tecnologies like:</p>
-
-<br>
 
 * **Front-End:** 
   - HTML
