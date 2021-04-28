@@ -6,7 +6,7 @@
 
 #### Welcome to my profile!
 
-<p>I have experience with some tecnologies like:</p>
+<p>I have knowledge in technologies such as:</p>
 
 <div align="center">
   
