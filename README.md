@@ -18,6 +18,7 @@ JavaScript | Express | MongoDB
 ReactJS | AWS | FaunaDB
 React Native |
 NextJS |
+Sass |
 
 </div>
 <p>I am a person who loves technology and its power of transformation and who believes too much in the power of persistence and continuity always!</p>
