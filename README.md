@@ -10,12 +10,12 @@
 
 <div align="center">
   
-**Front-End** | **Back-End** | **Architecture** | **Unitary tests**
------------- | ------------- | ------------- | -------------
-HTML | PHP | MVC | TDD
-CSS | NodeJS | DDD | Jest
-JavaScript | Express
-ReactJS | AWS
+**Front-End** | **Back-End** | **Data Base** | **Architecture** | **Unitary tests**
+------------ | ------------- | ------------- | ------------- | -------------
+HTML | PHP | MySql | MVC | TDD
+CSS | NodeJS | PostgresSQL | DDD | Jest
+JavaScript | Express | MongoDB
+ReactJS | AWS | FaunaDB
 React Native |
 NextJS |
 
