@@ -10,12 +10,12 @@
 
 <div align="center">
   
-**Front-End** | **Back-End** | **Data Base** | **Architecture** | **Unitary tests**
------------- | ------------- | ------------- | ------------- | -------------
-HTML | PHP | MySql | MVC | TDD
-CSS | NodeJS | PostgresSQL | DDD | Jest
-JavaScript | Express | MongoDB
-ReactJS | AWS | FaunaDB
+**Front-End** | **Back-End** | **Data Base** | **Architecture** | **Unitary tests** | **Versioning**
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+HTML | PHP | MySql | MVC | TDD | Git
+CSS | NodeJS | PostgresSQL | DDD | Jest | GitHub
+JavaScript | Express | MongoDB | | | GitLab
+ReactJS | AWS | FaunaDB | | | Bitbucket
 React Native |
 NextJS |
 Sass |
