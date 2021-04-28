@@ -8,30 +8,18 @@
 
 <p>I have experience with some tecnologies like:</p>
 
-* **Front-End:** 
-  - HTML
-  - CSS
-  - JavaScript
-  - ReactJS
-  - React Native
-  - Next
+<div align="center">
+  
+**Front-End** | **Back-End** | **Architecture** | **Unitary tests**
+------------ | ------------- | ------------- | -------------
+HTML | PHP | MVC | TDD
+CSS | NodeJS | DDD | Jest
+JavaScript | Express
+ReactJS | AWS
+React Native |
+NextJS |
 
-* **Back-End:**
-  - PHP
-  - NodeJS
-  - Express
-  - AWS
-
-* **Architecture:**
-  - MVC
-  - DDD
-
-* **Unitary tests:**
-  - TDD
-  - Jest
-
-<br>
-
+</div>
 <p>I am a person who loves technology and its power of transformation and who believes too much in the power of persistence and continuity always!</p>
 
 <br>
