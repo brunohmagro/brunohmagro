@@ -19,6 +19,7 @@ ReactJS | AWS | FaunaDB | | | Bitbucket
 React Native |
 NextJS |
 Sass |
+Expo |
 
 </div>
 <p>I am a person who loves technology and its power of transformation and who believes too much in the power of persistence and continuity always!</p>
